@@ -22,7 +22,6 @@ body{
     grid-gap:2rem;
 }
 .card{
-    height:200px;
     width: 200px;
     background-color:#fbfbfb;
     border-radius: 1rem;
